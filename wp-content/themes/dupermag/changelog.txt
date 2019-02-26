@@ -1,0 +1,12 @@
+== Change log ==
+
+= 1.0.2 =
+* Update : Theme Demo ( http://www.demo.acmethemes.com/dupermag/ ) and Screenshot image
+* Update : Default Primary color
+* Fix    : CSS tweaks
+
+= 1.0.1 =
+* Fix: CSS tweaks
+
+= 1.0.0 =
+* Initial release

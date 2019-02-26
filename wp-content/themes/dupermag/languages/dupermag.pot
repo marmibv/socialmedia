@@ -1,0 +1,145 @@
+# Copyright (C) 2016 Acme Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DuperMag\n"
+"POT-Creation-Date: 2016-09-26 13:50+0545\n"
+"PO-Revision-Date: 2016-09-26 13:50+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: acmethemes/customizer/feature-section/feature-side.php:7
+msgid "Slider Right Section"
+msgstr ""
+
+#: acmethemes/customizer/feature-section/feature-side.php:23
+#: acmethemes/sidebar-widget/acme-col-posts.php:55
+msgid "Select Category"
+msgstr ""
+
+#: acmethemes/customizer/feature-section/feature-side.php:24
+msgid "The four recent posts from the selected category will display"
+msgstr ""
+
+#: acmethemes/hooks/footer.php:73
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: acmethemes/hooks/footer.php:73
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: acmethemes/hooks/footer.php:75
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: acmethemes/hooks/header.php:121
+msgid "Skip to content"
+msgstr ""
+
+#: acmethemes/hooks/header.php:162
+msgid "Recent posts"
+msgstr ""
+
+#: acmethemes/hooks/slider-side.php:78 acmethemes/hooks/slider-side.php:108
+msgid "Select post"
+msgstr ""
+
+#: acmethemes/hooks/slider-side.php:81 acmethemes/hooks/slider-side.php:94
+#: acmethemes/hooks/slider-side.php:111 acmethemes/hooks/slider-side.php:124
+msgid " Goto Appearance > Customize > Featured Section Options"
+msgstr ""
+
+#: acmethemes/hooks/slider-side.php:91 acmethemes/hooks/slider-side.php:121
+msgid "Select another post"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:23
+msgid "AT Posts Column"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:25
+msgid "Show posts selected category"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:45
+msgid "Layout 1"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:45
+msgid "Layout 2"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:58
+msgid "From Recent Posts"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:77
+msgid "Enable First Post Featured"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:82
+msgid "First Featured Post Layout"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:84
+msgid "Enable First Post Featured to work this layout"
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:95
+msgid ""
+"Note: Some of the features only work in \"Home main content area\" due to "
+"minimum width in other areas."
+msgstr ""
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:189
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:31
+msgid "Full Image"
+msgstr ""
+
+#: functions.php:32
+msgid "No Image"
+msgstr ""
+
+#: template-parts/content-single.php:41 template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Read More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "DuperMag"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.acmethemes.com/themes/dupermag/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"DuperMag is a Child Theme Of SuperMag. You need to first install SuperMag "
+"( https://wordpress.org/themes/supermag/ ) to activate and use this theme. "
+"DuperMag is perfect theme for news, magazine, blog, reviews or personal "
+"sites. Full image blog and full image single post make it really cool. "
+"DuperMag extend the SuperMag theme with more beautifully crafted design. Get "
+"free support at https://www.acmethemes.com/acmethemes-supports/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "acmethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.acmethemes.com/"
+msgstr ""

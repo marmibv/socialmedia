@@ -1,0 +1,95 @@
+*   Trying 91.216.152.144...
+* TCP_NODELAY set
+* Connected to www.libertatea.ro (91.216.152.144) port 443 (#0)
+* ALPN, offering http/1.1
+* SSL connection using TLSv1.2 / ECDHE-RSA-AES256-GCM-SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; OU=PositiveSSL Wildcard; CN=*.libertatea.ro
+*  start date: Oct  8 00:00:00 2018 GMT
+*  expire date: Oct 15 23:59:59 2019 GMT
+*  subjectAltName: host "www.libertatea.ro" matched cert's "*.libertatea.ro"
+*  issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO RSA Domain Validation Secure Server CA
+*  SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+> GET /lifestyle/publicitate-farmaciile-sensiblu-punkt-si-arta-vin-in-sprijinul-bolnavilor-de-diabet-zaharat-2554086 HTTP/1.1
+Host: www.libertatea.ro
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://www.bing.com/
+
+< HTTP/1.1 200 OK
+< Server: nginx
+< Date: Tue, 26 Feb 2019 13:43:47 GMT
+< Content-Type: text/html; charset=UTF-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Last-Modified: Tue, 26 Feb 2019 13:40:51 GMT
+< Link: <https://www.libertatea.ro/wp-json/>; rel="https://api.w.org/"
+< Link: <https://www.libertatea.ro/?p=2554086>; rel=shortlink
+< Strict-Transport-Security: max-age=0; includeSubDomains
+< X-WS: vz-hhvm-slave1-wp hhvm
+< Access-Control-Allow-Origin: *
+< Access-Control-Allow-Credentials: true
+< Access-Control-Allow-Methods: GET
+< Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+< Cache-Control: public, must-revalidate, max-age=300, s-maxage=300
+< Vary: Accept-Encoding
+< X-Cache-0: H
+< X-Ba-0: default_slaves_hhvm
+< X-Varnish: 1954326676
+< Age: 178
+< Via: 1.1 varnish
+< X-Cache-91.216.152.145: M
+< X-Ba-91.216.152.145: 178
+< 
+* Connection #0 to host www.libertatea.ro left intact
+*   Trying 104.20.27.69...
+* TCP_NODELAY set
+* Connected to static4.libertatea.ro (104.20.27.69) port 443 (#1)
+* ALPN, offering http/1.1
+* SSL connection using unknown / TLS_AES_256_GCM_SHA384
+* ALPN, server accepted to use http/1.1
+* Server certificate:
+*  subject: OU=Domain Control Validated; OU=PositiveSSL Multi-Domain; CN=ssl415800.cloudflaressl.com
+*  start date: Dec 20 00:00:00 2018 GMT
+*  expire date: Jun 28 23:59:59 2019 GMT
+*  subjectAltName: host "static4.libertatea.ro" matched cert's "*.libertatea.ro"
+*  issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO ECC Domain Validation Secure Server CA 2
+*  SSL certificate verify result: unable to get local issuer certificate (20), continuing anyway.
+> GET /wp-content/uploads/2019/02/postersensiblu148x210-722x1024.jpg HTTP/1.1
+Host: static4.libertatea.ro
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: */*
+Referer: http://static4.libertatea.ro
+
+< HTTP/1.1 200 OK
+< Date: Tue, 26 Feb 2019 13:43:50 GMT
+< Content-Type: image/jpeg
+< Content-Length: 89984
+< Connection: keep-alive
+* Added cookie __cfduid="d8c8178cc13ffd3aa4f026af0db50473b1551188630" for domain libertatea.ro, path /, expire 1582724630
+< Set-Cookie: __cfduid=d8c8178cc13ffd3aa4f026af0db50473b1551188630; expires=Wed, 26-Feb-20 13:43:50 GMT; path=/; domain=.libertatea.ro; HttpOnly; Secure
+< Access-Control-Allow-Credentials: true
+< Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+< Access-Control-Allow-Methods: GET
+< Access-Control-Allow-Origin: *
+< Cache-Control: public, max-age=7776000, s-maxage=7776000
+< Cf-Bgj: imgq:85
+< Cf-Polished: degrade=85, origSize=94805
+< Last-Modified: Thu, 21 Feb 2019 10:07:20 GMT
+< Strict-Transport-Security: max-age=0; includeSubDomains
+< Vary: Accept
+< Via: 1.1 varnish
+< X-Ba-0: default_slaves_hhvm
+< X-Ba-91.216.152.143: 599
+< X-Cache-0: H
+< X-Cache-91.216.152.143: H
+< X-Varnish: 298659104 298648641
+< X-WS: vz-hhvm-slave2-wp hhvm
+< CF-Cache-Status: HIT
+< Accept-Ranges: bytes
+< Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< CF-RAY: 4af2d7ca4a1d7ebe-BUD
+< 
+* Connection #1 to host static4.libertatea.ro left intact

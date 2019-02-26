@@ -1,0 +1,22 @@
+== Change log ==
+
+= 1.0.3 = Nov 29, 2018
+* Added: Post format Support
+* Fixed: Make all text translation ready
+* Fixed: Minor Css Changes
+* Remove: Image size update
+* Remove: Empty Template folder
+
+= 1.0.2 = Nov 20, 2018
+* Fixed: Minor css fixes
+* Added: Hooks and filters added for flexibility
+* Added: Accordion and relationship maintain on widget fields
+* Improvements: Manage code page speed improvement
+
+= 1.0.1 - Sept 6, 2018 =
+* Fixed: Minor css fixes
+* Fixed: Proper screenshoots added
+* Fixed: Demo website and url managed
+
+= 1.0.0 - Aug 31, 2018 =
+* Initial release
